@@ -2,15 +2,23 @@
 
 I'm Adrián, a physicist turned data scientist. 
 
-- 🔭 I’m currently working as a data science technician at the Climate & Health group at ISGlobal. My tasks include:
- - Web development (website of the group and of the AIRLAB)
- - Management of code creation and maintenance within the group (centralisation, version control, workflow, optimisation, documentation)
- - Model visualisation (and deployment)
- - Computational and analytical support for research (cluster computing, statistical modelling, machine learning applications)
+- 🔭 I’m currently working as a data science technician at the Climate & Health group at the Barcelona Institute for Global Health ([ISGlobal](https://www.isglobal.org/)). My tasks include:
+ ..- Web development (website of the group and of the AIRLAB)
+ ..- Management of code creation and maintenance within the group (centralisation, version control, workflow, optimisation, documentation)
+ ..- Model visualisation (and deployment)
+ ..- Computational and analytical support for research (cluster computing, statistical modelling, machine learning applications)
  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/adrián-fernández-cid-0817b885)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/adrián-fernández-cid-0817b885),     
+<a href="mailto:adrian.fernandez@isglobal.org">
+      <img src="https://img.shields.io/badge/GMail-100000?style=flat&logo=gmail&logoColor=white&color=darkred" />
+    </a>
  
+#### Technology Stack
 
+![Python](https://img.shields.io/badge/Python-100000?style=flat&logo=Python&logoColor=white&color=blue) 
+![R](https://img.shields.io/badge/R-100000?style=flat&logo=r&logoColor=white&color=blue) 
+![SQL](https://img.shields.io/badge/SQL-100000?style=flat&logo=mysql&logoColor=white&color=blue)
+![Git](https://img.shields.io/badge/Git-100000?style=flat&logo=git&logoColor=white&color=blue) 
 <!--
 **adrifcid/adrifcid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,3 +33,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!-- ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alfontal&theme=vue) -->
+
+
+
