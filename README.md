@@ -8,7 +8,7 @@ I'm Adrián, a physicist turned data scientist.
  - Model visualisation (and deployment)
  - Computational and analytical support for research (cluster computing, statistical modelling, machine learning applications)
  
-- 📫 Reach me on [LinkedIn](www.linkedin.com/in/adrián-fernández-cid-0817b885)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/adrián-fernández-cid-0817b885)
  
 
 <!--
