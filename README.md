@@ -6,7 +6,7 @@ I'm Adrián, a physicist turned data scientist.
 
 I work as a data science technician at the Climate & Health group at the Barcelona Institute for Global Health ([ISGlobal](https://www.isglobal.org/)). My tasks include:
  - Web development (website of the group and of the AIRLAB)
- - Management of code creation and maintenance within the group (centralisation, version control, workflow, optimisation, documentation)
+ - Management of code creation and maintenance within the group (standardisation, version control, workflow, optimisation, documentation)
  - Model visualisation (and deployment)
  - Computational and analytical support for research (cluster computing, statistical modelling, machine learning applications)
 
