@@ -1,24 +1,13 @@
 ### Hi there! 👋 
 
 I'm Adrián, a physicist turned data scientist. 
-
-#### Current position
-
-I work as a data science technician at the Climate & Health group at the Barcelona Institute for Global Health ([ISGlobal](https://www.isglobal.org/)). My tasks include:
- - Web development (website of the group and of the AIRLAB)
- - Management of code creation and maintenance within the group (standardisation, version control, workflow, optimisation, documentation)
- - Model visualisation (and deployment)
- - Computational and analytical support for research (cluster computing, statistical modelling, machine learning applications)
-
  
 #### Reach me on
-
-
 
 <a href="https://www.linkedin.com/in/adrián-fernández-cid-0817b885">
       <img src="https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=linkedin&logoColor=white&color=0A66C2" />
     </a>
-<a href="mailto:adrian.fernandez@isglobal.org">
+<a href="mailto:adri.fernandez.cid@gmail.com">
       <img src="https://img.shields.io/badge/GMail-100000?style=flat&logo=gmail&logoColor=white&color=darkred" />
     </a>
  
